@@ -1,0 +1,6 @@
+if (now.getDay() > 0 && now.getDay() < 6) {
+     document.write("Sorry, it's a weekday.");
+}
+else {
+     document.write("Hooray, it's a weekend!");
+}
